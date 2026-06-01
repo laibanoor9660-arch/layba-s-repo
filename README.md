@@ -1,2 +1,2 @@
-# layba-s-repo
-its layba's repo
+# laiba-s-repo
+its laiba's repo
